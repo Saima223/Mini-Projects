@@ -1,14 +1,16 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri,sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
-body{
+
+body {
     background: rgb(13, 26, 41);
     color: #202020;
 }
-.container{
+
+.container {
     width: 400px;
     padding: 25px 35px;
     position: absolute;
@@ -18,12 +20,14 @@ body{
     background-color: #fff;
     border-radius: 5px;
 }
-.container p{
+
+.container p {
     font-weight: 600px;
     font-size: 15px;
     margin-bottom: 8px;
 }
-.container input{
+
+.container input {
     width: 100%;
     height: 50px;
     border: 1px solid #494eea;
@@ -32,7 +36,8 @@ body{
     margin: 10px 0 20px;
     border-radius: 5px;
 }
-.container button{
+
+.container button {
     width: 100%;
     height: 50px;
     background: #494eea;
@@ -45,38 +50,47 @@ body{
     margin: 20px 0;
     font-weight: 500;
 }
-#imgBox{
+
+#imgBox {
     width: 200px;
     border-radius: 5px;
     max-height: 0;
     overflow: hidden;
     transition: max-height 1s;
 }
-#imgBox img{
+
+#imgBox img {
     width: 100%;
     padding: 10px;
 }
-#imgBox.show-img{
+
+#imgBox.show-img {
     max-height: 300px;
     margin: 10px auto;
     border: 1px solid #d1d1d1;
 }
-.error{
+
+.error {
     animation: shake 0.1s linear 10;
 }
+
 @keyframes shake {
     0% {
         transform: translateX(0);
     }
+
     25% {
         transform: translateX(-2px);
-    }    
+    }
+
     50% {
         transform: translateX(0);
     }
+
     75% {
         transform: translateX(2px);
     }
+
     100% {
         transform: translateX(0);
     }
