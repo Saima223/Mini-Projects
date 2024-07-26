@@ -1,5 +1,6 @@
 const buttonColours = ["red", "blue", "green", "yellow"];
 let gamePattern = [];
+let userClickedPattern = [];
 
 function nextSequence() {
     let randomNumber = Math.floor(Math.random() * 4);
@@ -10,17 +11,19 @@ function nextSequence() {
     $("#" + randomChosenColour).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
 
     // Play the sound for the selected button
-    makeSound(randomChosenColour);
+    playSound(randomChosenColour);
 
     return randomChosenColour;
 }
 
-function makeSound(name) {
+function playSound(name) {
     let audio = new Audio("sounds/" + name + ".mp3");
     audio.play();
 }
 
-// Start the game only after the user interacts with the page
-$(document).keypress(function() {
-    nextSequence();
+$(".btn").click(function() {
+    let userChosenColour = $(this).attr("id");
+    playSound(userChosenColour); 
+    userClickedPattern.push(userChosenColour);
+   // console.log(userClickedPattern);
 });
