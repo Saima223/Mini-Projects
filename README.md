@@ -1,33 +1,43 @@
-# Mini-Projects
+# Mini-Projects Collection
 
-This repository is a collection of various mini-projects built using HTML, CSS, and JavaScript. These projects aim to improve coding skills.
+A collection of small web development projects using HTML, CSS, and JavaScript. Each project demonstrates different web development concepts and functionalities.
 
-## Projects
+## Projects List
 
-### Countdown
-A simple countdown timer project that can be customized for different events or occasions.
-
-### DragNdrop
-An implementation of drag and drop functionality, allowing users to move elements within a container.
-
-### LoadingAnimation
-A basic loading animation created using CSS animations.
-
-### LoginForm
-A user-friendly login form with client-side validation.
-
-### PassGenerator
-A password generator tool that creates strong and secure passwords based on user preferences.
-
-### QRcodeGen
-A QR code generator that converts text or URLs into scannable QR codes.
-
-### Todo List (formerly Task App)
-A user-friendly to-do list for creating, deleting, and marking tasks as complete.
+| Project Name | Description | Live Demo |
+|-------------|-------------|-----------|
+| Countdown | A simple countdown timer project that can be customized for different events or occasions. | [View Demo](https://salma223.github.io/Mini-Projects/Countdown) |
+| DragNdrop | An implementation of drag and drop functionality, allowing users to move elements within a container. | [View Demo](https://salma223.github.io/Mini-Projects/DragNdrop) |
+| LoadingAnimation | A basic loading animation created using CSS animations. | [View Demo](https://salma223.github.io/Mini-Projects/LoadingAnimation) |
+| LoginForm | A user-friendly login form with client-side validation. | [View Demo](https://salma223.github.io/Mini-Projects/LoginForm) |
+| PassGenerator | A password generator tool that creates strong and secure passwords based on user preferences. | [View Demo](https://salma223.github.io/Mini-Projects/PassGenerator) |
+| QRcodeGen | A QR code generator that converts text or URLs into scannable QR codes. | [View Demo](https://salma223.github.io/Mini-Projects/QRcodeGen) |
+| Todo List | A user-friendly to-do list for creating, deleting, and marking tasks as complete. | [View Demo](https://salma223.github.io/Mini-Projects/Todo-List) |
 
 ## Getting Started
 
-To get started with these projects, you can either clone this repository or download the project files individually. Each project folder contains the necessary HTML, CSS, and JavaScript files, along with any additional assets required.
+To get started with these projects, you can either:
+1. Clone this repository
+2. Download individual project files
 
-```bash
-git clone [https://github.com/Saima223/Mini-Projects.git](https://github.com/Saima223/Mini-Projects.git)" for this repo 
+Each project folder contains the necessary HTML, CSS, and JavaScript files, along with any additional assets required.
+
+## Contributing
+
+Contributions are welcome! Here's how you can contribute to this collection:
+
+1. Fork the repository
+2. Create a new branch for your project (`git checkout -b feature/YourProjectName`)
+3. Add your project to a new folder
+4. Update the README.md table with your project information
+5. Create a pull request
+
+### Contribution Guidelines
+
+- Ensure your project is built with HTML, CSS, and JavaScript
+- Include a clear description of your project
+- Add proper documentation within your code
+- Test your project thoroughly before submitting
+- Make sure all links are working
+- Add a screenshot or gif of your project (optional)
+
