@@ -9,7 +9,7 @@ A collection of small web development projects using HTML, CSS, and JavaScript. 
 | Countdown | A simple countdown timer project. | [View Demo](https://telling-collar.surge.sh/) |
 | Dicee Challenge | A mini project for practicing DOM manipulation using dice game. | [View Demo](https://diceechallenge.surge.sh/) |
 | DragNdrop | An implementation of drag and drop functionality, allowing users to move elements. | [View Demo](https://flashy-hair.surge.sh/) |
-| Drum-kit | A drum kit implementation with keyboard button functionality for playing drum sounds. | [View Demo](https://salma223.github.io/Mini-Projects/Drum-kit) |
+| Drum-kit | A drum kit implementation with keyboard button functionality for playing drum sounds. | [View Demo](https://static-clam.surge.sh/) |
 | LoadingAnimation | A basic loading animation created using CSS animations. | [View Demo]() |
 | LoginForm | A user-friendly login form with client-side validation. | [View Demo](https://towering-air.surge.sh/) |
 | PassGenerator | A password generator tool that creates strong and secure passwords. | [View Demo](https://childlike-laborer.surge.sh/) |
