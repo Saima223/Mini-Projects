@@ -6,13 +6,17 @@ A collection of small web development projects using HTML, CSS, and JavaScript. 
 
 | Project Name | Description | Live Demo |
 |-------------|-------------|-----------|
-| Countdown | A simple countdown timer project that can be customized for different events or occasions. | [View Demo](https://salma223.github.io/Mini-Projects/Countdown) |
-| DragNdrop | An implementation of drag and drop functionality, allowing users to move elements within a container. | [View Demo](https://salma223.github.io/Mini-Projects/DragNdrop) |
+| Countdown | A simple countdown timer project. | [View Demo](https://telling-collar.surge.sh/) |
+| Dicee Challenge | A mini project for practicing DOM manipulation using dice game. | [View Demo](https://diceechallenge.surge.sh/) |
+| DragNdrop | An implementation of drag and drop functionality, allowing users to move elements. | [View Demo](https://flashy-hair.surge.sh/) |
+| Drum-kit | A drum kit implementation with keyboard button functionality for playing drum sounds. | [View Demo](https://salma223.github.io/Mini-Projects/Drum-kit) |
 | LoadingAnimation | A basic loading animation created using CSS animations. | [View Demo](https://salma223.github.io/Mini-Projects/LoadingAnimation) |
 | LoginForm | A user-friendly login form with client-side validation. | [View Demo](https://salma223.github.io/Mini-Projects/LoginForm) |
 | PassGenerator | A password generator tool that creates strong and secure passwords based on user preferences. | [View Demo](https://salma223.github.io/Mini-Projects/PassGenerator) |
-| QRcodeGen | A QR code generator that converts text or URLs into scannable QR codes. | [View Demo](https://salma223.github.io/Mini-Projects/QRcodeGen) |
-| Todo List | A user-friendly to-do list for creating, deleting, and marking tasks as complete. | [View Demo](https://salma223.github.io/Mini-Projects/Todo-List) |
+| Popup | A JavaScript implementation for creating and managing popup windows. | [View Demo](https://salma223.github.io/Mini-Projects/Popup) |
+| QRcodeGen | A QR code generator that converts text or URLs into scannable QR codes. | [View Demo](https://wanting-pan.surge.sh/) |
+| Simon Game | A memory game where players must remember and repeat sequences of colors and sounds. | [View Demo](https://salma223.github.io/Mini-Projects/Simon-Game) |
+| Task App | A user-friendly to-do list for creating, deleting, and marking tasks as complete. | [View Demo](https://supreme-money.surge.sh/) |
 
 ## Getting Started
 
